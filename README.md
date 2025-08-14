@@ -53,6 +53,12 @@ npx nodemon server.js
 - "similar to tum hi ho"
 - "peaceful english"
 
+## 📸 Screenshots
+
+![Home Screen](screenshots/screenshot-1.png)
+
+![Chat Recommendations](screenshots/screenshot-2.png)
+
 ## 📚 Dataset
 Each song has: `title`, `artist`, `language`, `genre`, `tempo`, `key`, `acousticness`, `energy`, `danceability`, `mood`, and a lyric snippet. See `data/songs_dataset.js`.
 
